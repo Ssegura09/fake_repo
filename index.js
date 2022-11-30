@@ -1,0 +1,1 @@
+console.log("See how my console mssg is working from the index.js file :D - You can do this by adding the script tag to the index.html")
